@@ -10,7 +10,7 @@ A few months back, I saw a new son how in the Ring of Fire region on the world w
 * Understanding the regions with heaviest impact of Tsunami in the country which has suffered the most
 * Analysing the patterns and frequency of Tsunamis in the different regions.
 
-Tools and Technologies Used- Google Cloud Platform, Google Data Studio
+Tools and Technologies Used- Google Cloud Platform, Google Data Studio, Big Query
 
 * Dataset is collected from The Global Historical Tsunami Database maintained by (NOAA) National Oceanic and Atmospheric Administration.
 * Information of More than 2400 Tsunamis since 200 BC
