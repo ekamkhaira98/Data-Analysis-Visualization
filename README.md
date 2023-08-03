@@ -12,3 +12,16 @@ A few months back, I saw a new son how in the Ring of Fire region on the world w
 
 Tools and Technologies Used- Google Cloud Platform, Google Data Studio
 
+* Dataset is collected from The Global Historical Tsunami Database maintained by (NOAA) National Oceanic and Atmospheric Administration.
+* Information of More than 2400 Tsunamis since 200 BC
+* 2 Tables – Tsunami Source Event and Tsunami Run Ups
+* Over 44 columns and 36 columns in each table respectively.
+* Null values have been omitted while querying the tables in order to get correct analyses.
+
+
+Finding of Analysis-
+* Japan has faced the biggest Financial as well as human loss till date to the Tsunamis.
+* Miyako Region of Japan has incurred the largest Capital Loss due to Tsunamis.
+* Probability of occurrence of Tsunami in Miyako in first quarter of the year is very likely.
+* Yaizu region in Japan has suffered the most casualities in totality till date.
+
