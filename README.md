@@ -25,3 +25,6 @@ Finding of Analysis-
 * Probability of occurrence of Tsunami in Miyako in first quarter of the year is very likely.
 * Yaizu region in Japan has suffered the most casualities in totality till date.
 
+Conclusion-
+I aim at developing a alert system where we can notify specific areas based upon the danger zones which they lie in. This would be really helpful for the government bodies as well as the citizens to be aware of. It also reduces the risk of loss of capital and the damage caused by this natural disasters. 
+
